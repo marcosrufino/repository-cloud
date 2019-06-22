@@ -1,7 +1,7 @@
 ---
 spring:
   profiles: production
-value: teste2
+value: teste3
 eureka:
   client:
     register-with-eureka: true
